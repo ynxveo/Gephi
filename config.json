@@ -1,0 +1,53 @@
+{
+  "type": "network",
+  "version": "1.0",
+  "data": "data.json",
+  "logo": {
+    "file": "https://postfiles.pstatic.net/MjAyMzA2MThfMjE4/MDAxNjg3MDk2NzUzMjQz.soGHs-W0t66WhjPGbI9ZxAGRmNLKPW4YSbznZ_uwn8Eg.YfYc2AjKhziMoVpOXqrdhy_5utA86gPBXyb-lTfzKGYg.PNG.areon2714/%EC%8B%A4%ED%81%AC_%EB%A1%9C%EB%93%9C_%EB%A1%9C%EA%B3%A0.png?type\u003dw966",
+    "link": "",
+    "text": "팀 루오투오"
+  },
+  "text": {
+    "more": "",
+    "intro": "중국 영화 작품 목록을 세대 및 지역별로 분류하였습니다.",
+    "title": "중국의 세대 및 지역별 작품 목록"
+  },
+  "legend": {
+    "edgeLabel": "세대 및 지역에 속한 작품",
+    "colorLabel": "연결 고리",
+    "nodeLabel": "세대 및 지역, 영화 작품"
+  },
+  "features": {
+    "search": true,
+    "groupSelectorAttribute": false,
+    "hoverBehavior": "default"
+  },
+  "informationPanel": {
+    "groupByEdgeDirection": true,
+    "imageAttribute": false
+  },
+  "sigma": {
+    "drawingProperties": {
+      "defaultEdgeType": "curve",
+      "defaultHoverLabelBGColor": "#002147",
+      "defaultLabelBGColor": "#ddd",
+      "activeFontStyle": "bold",
+      "defaultLabelColor": "#000",
+      "labelThreshold": 10,
+      "defaultLabelHoverColor": "#fff",
+      "fontStyle": "bold",
+      "hoverFontStyle": "bold",
+      "defaultLabelSize": 14
+    },
+    "graphProperties": {
+      "maxEdgeSize": 0.5,
+      "minEdgeSize": 0.2,
+      "minNodeSize": 1,
+      "maxNodeSize": 7
+    },
+    "mouseProperties": {
+      "maxRatio": 20,
+      "minRatio": 0.75
+    }
+  }
+}
